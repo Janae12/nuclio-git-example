@@ -1,2 +1,4 @@
 print("Hello new")
 print("hello from client")
+print('Hello from server')
+
